@@ -14,7 +14,7 @@ const CONFIG = {
   name: 'dv',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -37,9 +37,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Blackboard',
+      icon: 'book-open',
+      link: 'https://gallaudet.blackboard.com/',
     },
     {
       id: '2',
