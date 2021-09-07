@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'good morning, ',
+  greetingAfternoon: 'good afternoon,',
+  greetingEvening: 'good evening,',
+  greetingNight: 'you should probably sleep, ',
 
   // Weather
   weatherKey: 'bb465cd65e2da7d1988c72578b8ee403',
@@ -43,9 +43,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'GMail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
