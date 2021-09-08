@@ -78,27 +78,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'classes',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'vee 101',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_172351_1/outline',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'gsr 102 eng',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_171771_1/outline',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'gsr 103 asl',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_171773_1/outline',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'gsr 104 math',
+        link: 'https://gallaudet.blackboard.com/ultra/courses/_171792_1/outline',
       },
     ],
     secondList: [
