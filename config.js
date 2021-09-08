@@ -69,7 +69,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -79,7 +79,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'classes',
-  secondListIcon: 'coffee',
+  secondListIcon: 'freetime',
 
   // Links
   lists: {
@@ -107,16 +107,16 @@ const CONFIG = {
         link: 'https://docs.google.com/document/d/1Xp79GroQeAVjYxIZsm34EeU6nvlLQQmnGZa-hAUecV0/edit',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'anime',
+        link: 'https://animixplay.to/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'mal',
+        link: 'https://myanimelist.net/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'jomezpro',
+        link: 'https://www.youtube.com/channel/UCmGyCEbHfY91NFwHgioNLMQ',
       },
     ],
   },
