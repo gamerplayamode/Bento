@@ -13,10 +13,10 @@
 
   /* Light theme  */
   --accent: #61b0f1; /* Hover color */
-  --bg: #475666; /* Background color */
+  --bg: #e4e6e6; /* Background color 475666 */
   --sbg: #e4e6e6; /* Cards color */
 
-  --fg: #e4e6e6; /* Foreground color */
+  --fg: #475666; /* Foreground color */
   --sfg: #475666; /* Sceondary Foreground color */
 
   /* Image background  */
