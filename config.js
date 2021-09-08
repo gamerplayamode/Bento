@@ -25,7 +25,7 @@ const CONFIG = {
   // Weather
   weatherKey: 'bb465cd65e2da7d1988c72578b8ee403',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'F',
+  weatherUnit: 'C',
   weatherLatitude: '38.907192',
   weatherLongitude: '--77.036873',
 
@@ -103,8 +103,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'gsr102home',
+        link: 'https://docs.google.com/document/d/1Xp79GroQeAVjYxIZsm34EeU6nvlLQQmnGZa-hAUecV0/edit',
       },
       {
         name: 'Figma',
