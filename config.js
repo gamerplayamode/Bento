@@ -67,7 +67,7 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
