@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'dv',
+  name: 'Jay',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'good morning,',
-  greetingAfternoon: 'good afternoon,',
-  greetingEvening: 'good evening,',
-  greetingNight: 'you should probably sleep, ',
+  greetingMorning: 'Its school time,',
+  greetingAfternoon: 'still in school eh,',
+  greetingEvening: 'school is done,',
+  greetingNight: 'go sleep bruh, ',
 
   // Weather
   weatherKey: 'bb465cd65e2da7d1988c72578b8ee403',
@@ -50,7 +50,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'Todoist',
-      icon: 'trello',
+      icon: 'chrome',
       link: 'https://calendar.google.com/calendar/r',
     },
     {
