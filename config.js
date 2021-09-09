@@ -51,7 +51,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'chrome',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://www.google.com/?client=safari',
     },
     {
       id: '4',
